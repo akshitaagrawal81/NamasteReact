@@ -1,5 +1,10 @@
 # This is a clone of swiggy application made in React and covers the following concepts:
 
+- To run this project clone the project first followed by  :
+- installing packages, (npm install)
+- running application, (npm start)
+
+
 
 # Parcel
 - Dev Build
